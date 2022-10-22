@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DEV\\terrasoft\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DecOct2022\\Files\\DecOct2022.csproj": {}
+  },
+  "projects": {
+    "C:\\DEV\\terrasoft\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DecOct2022\\Files\\DecOct2022.csproj": {
+      "version": "8.0.4.1870",
+      "restore": {
+        "projectUniqueName": "C:\\DEV\\terrasoft\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DecOct2022\\Files\\DecOct2022.csproj",
+        "projectName": "DecOct2022",
+        "projectPath": "C:\\DEV\\terrasoft\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DecOct2022\\Files\\DecOct2022.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_BPMOnline\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\terrasoft\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DecOct2022\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_BPMOnline\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

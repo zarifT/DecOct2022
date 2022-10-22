@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "767880b6-ad9a-15cc-620a-8013b8c66e45",
+    "PackageVersion": "1.0.0",
+    "Name": "DecOct2022",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1666260652000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DecOct2022.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

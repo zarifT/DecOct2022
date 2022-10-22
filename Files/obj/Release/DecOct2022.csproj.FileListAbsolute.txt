@@ -1,0 +1,8 @@
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\Bin\DecOct2022.dll
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\Bin\DecOct2022.pdb
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.csprojAssemblyReference.cache
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.AssemblyInfoInputs.cache
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.AssemblyInfo.cs
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.csproj.CoreCompileInputs.cache
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.dll
+C:\DEV\terrasoft\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DecOct2022\Files\obj\Release\DecOct2022.pdb
