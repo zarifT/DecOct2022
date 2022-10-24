@@ -1,0 +1,28 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0c675699-9417-4997-b5f6-2ee06e5cf921"
+        },
+        {
+          "SchemaColumnUId": "3404d8b5-dfd5-acfb-c18d-73d12224cd5f",
+          "Value": "Г"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a6f065a9-e0bb-40f5-92ca-762d0468f323"
+        },
+        {
+          "SchemaColumnUId": "3404d8b5-dfd5-acfb-c18d-73d12224cd5f",
+          "Value": "Kv"
+        }
+      ]
+    }
+  ]
+}
